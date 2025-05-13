@@ -7,7 +7,7 @@ import { Inter } from "next/font/google"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "soniqaudio | Cooking audio/music apps",
+  title: "soniqaudio | cooking audio/music apps",
   description: "Creative audio studio cooking audio/music apps",
   generator: 'Next.js',
   icons: {
@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   },
   metadataBase: new URL('https://soniqaudio.com'),
   openGraph: {
-    title: 'soniqaudio | Cooking audio/music apps',
+    title: 'soniqaudio | cooking audio/music apps',
     description: 'Creative audio studio cooking audio/music apps',
     url: 'https://soniqaudio.com',
     siteName: 'soniqaudio',
@@ -24,7 +24,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'soniqaudio | Cooking audio/music apps',
+    title: 'soniqaudio | cooking audio/music apps',
     description: 'Creative audio studio cooking audio/music apps',
     creator: '@rvm0n_'
   },

@@ -27,7 +27,7 @@ export default function Home() {
         <div className="flex items-center justify-center w-full">
           <div className="relative w-32 h-32 flex items-center justify-center">
             <Image
-              src="/images/soniqaudio-logo.png"
+              src="/images/soniqaudio-logo.jpg"
               alt="soniqaudio logo"
               width={128}
               height={128}
@@ -65,7 +65,7 @@ export default function Home() {
           >
             <Link href="https://rvmon.xyz" target="_blank" rel="noopener noreferrer" className="flex items-center">
               <Image
-                src="/images/music-logo.png"
+                src="/images/music-logo.jpg"
                 alt="Music logo"
                 width={20}
                 height={20}
